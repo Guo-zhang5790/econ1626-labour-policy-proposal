@@ -1,8 +1,8 @@
-#Policy Proposal: Australia's AI Labor Fair Transformation Plan
+# Policy Proposal: Australia's AI Labor Fair Transformation Plan
 
 Subject: Deputy Director of the Employment and Skills Division of the Federal Department of Employment and Labor Relations (DEWR) of 
 
-##Executive Summary
+## Executive Summary
 
 Generative AI reshapes the Australian labor market through three paths: task automation, worker capacity enhancement, and industrial restructuring. OECD data shows that at least 20% of Australian workers' jobs can significantly improve efficiency with the help of AI. ABS data in July 2026 shows that the national unemployment rate remains at 4.5%, and the overall employment market remains resilient, but the differentiation of the labor market gradually emerges: the employment growth rate of AI high-exposure occupations is only 5.6%, significantly lower than the growth level of 9.5% of low-exposure occupations, wage polarization, regional gaps, and vulnerable groups Employment risks continue to expand.
 
