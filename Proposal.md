@@ -15,3 +15,11 @@ The impact of AI on the labor market is transmitted through three core channels:
 In terms of total, the Australian employment market is generally stable. DEWR (2026) monitoring shows that there has been no large-scale AI-driven unemployment. The overall employment growth rate is stable, and the employment performance of young people aged 20-24 is even better than that of other age groups. However, structural differentiation has emerged: from November 2022 to February 2026, the employment of one-fifth of the professions with the highest exposure to AI (clerical, administrative, junior professional positions) increased by only 5.6%, while the employment of the one-fifth occupations with the lowest exposure increased by 9.5%.
 
 Mandala Partners (2024) predicts that by 2030, 7.2 million workers (50% of the total workforce) in Australia will face significant AI-driven job changes: 3.3 million of them will be enhanced by AI, 390 The core tasks of thousands of people will be reshaped. There are obvious geographical differences in this impact: New South Wales has the highest AI exposure (30.3%) and Tasmania has the lowest (24%), which is highly related to the industrial structure of various places. Without policy intervention, AI will amplify the existing labor market inequality, and it will be difficult for regular workers, residents in remote areas, and temporary workers to share the dividends of AI development.
+
+## Impact analysis
+
+### Employment and work tasks
+
+The core impact of AI is mission reshaping, not widespread unemployment. Conventional cognitive positions such as clerks, data entry, and basic customer service have the highest risk of automation, and employment growth is slow; software, data analysis and other AI-related emerging positions are expanding rapidly.
+
+Job skill requirements are changing: after AI undertakes the basic analysis work, employers have lowered the rigid requirements for formal education and given more importance to the digital practical ability of workers. The focus of a large number of administrative positions has shifted from document collation and data entry to cross-subject communication and complex problem handling.
